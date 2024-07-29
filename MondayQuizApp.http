@@ -1,6 +1,0 @@
-@MondayQuizApp_HostAddress = http://localhost:5195
-
-GET {{MondayQuizApp_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
